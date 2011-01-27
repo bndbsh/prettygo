@@ -1,0 +1,8 @@
+*.o
+*.a
+*.[568vq]
+*.swp
+[568vq].out
+_testmain.go
+
+prettygo/prettygo
